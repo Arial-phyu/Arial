@@ -1,0 +1,74 @@
+.headings{
+    color:#964B00;
+    font-family: Comic Sans MS;
+    font-weight: 1000;
+    letter-spacing: 5px;
+    text-align: center;
+    font-size: 50;
+}
+.sub-headings{
+    color:	#964B00;
+    font-family: Comic Sans MS;
+    font-weight: 10;
+    letter-spacing: 2px;
+    text-align: left;
+    font-size: 20;
+}
+.breakfast{
+    color: #000000;
+    font-family: Comic Sans MS;
+    font-weight: 10;
+    letter-spacing: 1px;
+    text-align: left;
+    font-size: 15;   
+    
+}
+.lunch{
+    color: #000000;
+    font-family: Comic Sans MS;
+    font-weight: 10;
+    letter-spacing: 1px;
+    text-align: left;
+    font-size: 15; 
+}
+.drinks{
+    color: #000000;
+    font-family: Comic Sans MS;
+    font-weight: 10;
+    letter-spacing: 1px;
+    text-align: left;
+    font-size: 15; 
+}
+.reviews{
+    color: #964B00;
+    font-family: Comic Sans MS;
+    font-weight: 10;
+    text-align: left;
+    font-size: 15;
+}
+.links{
+    font-family: Comic Sans MS;
+    font-weight: 10;
+    font-size: 15;
+    border-radius: 25px;
+  background-color: #df9952;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 2px 2px rgb(0, 0, 0);
+  
+}
+.img{
+    border-radius: 50%;
+}
+body{
+    background-image:url("cafe-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+
+}
